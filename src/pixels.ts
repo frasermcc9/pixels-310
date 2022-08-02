@@ -1,0 +1,18 @@
+export const pixels = [
+    { x: 0, y: 0, color: "#ffffff" },
+    { x: 1, y: 0, color: "#ffffff" },
+    { x: 2, y: 0, color: "#ffffff" },
+    { x: 3, y: 0, color: "#ffffff" },
+    { x: 0, y: 1, color: "#ffffff" },
+    { x: 1, y: 1, color: "#ffffff" },
+    { x: 2, y: 1, color: "#ffffff" },
+    { x: 3, y: 1, color: "#ffffff" },
+    { x: 0, y: 2, color: "#ffffff" },
+    { x: 1, y: 2, color: "#ffffff" },
+    { x: 2, y: 2, color: "#ffffff" },
+    { x: 3, y: 2, color: "#ffffff" },
+    { x: 0, y: 3, color: "#ffffff" },
+    { x: 1, y: 3, color: "#ffffff" },
+    { x: 2, y: 3, color: "#ffffff" },
+    { x: 3, y: 3, color: "#ffffff" },
+];
